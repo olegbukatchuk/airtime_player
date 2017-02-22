@@ -1,5 +1,8 @@
 /* 
-BASSFM Player v0.0.1
+Stream Radio Player
+Version: 0.0.1
+Author: Oleg Bukatchuk
+E-mail% oleg@bukatchuk.com
 */
 
-
+var stream = 0;
