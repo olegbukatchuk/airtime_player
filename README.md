@@ -22,7 +22,10 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
 
     <body>
         <script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
+        
+        <!-- Player Block Start -->
         <div class="player"></div>
+        <!-- Player Block End -->
     </body>
 </html>
 ```
