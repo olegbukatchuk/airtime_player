@@ -12,7 +12,7 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
         <title>Full customize stream player for Airtime RMS</title>
         <meta name="description" content="Full customize stream player for Airtime RMS">
         <meta name="author" content="Oleg Bukatchuk">
-  
+        
         <link rel="stylesheet" href="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css">
   
         <!--[if lt IE 9]>
