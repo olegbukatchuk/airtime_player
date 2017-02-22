@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ceb570-86d6-49bb-8cc0-2f89a4331e4f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/airtime_player.css" afterPath="$PROJECT_DIR$/airtime_player.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/airtime_player.js" afterPath="$PROJECT_DIR$/airtime_player.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +23,8 @@
       <file leaf-file-name="airtime_player.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/airtime_player.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -120,12 +118,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487789695924</updated>
       <workItem from="1487789697634" duration="845000" />
-      <workItem from="1487790570842" duration="2794000" />
+      <workItem from="1487790570842" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3639000" />
+    <option name="totallyTimeSpent" value="3737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="837" extended-state="6" />
@@ -234,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/airtime_player.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
