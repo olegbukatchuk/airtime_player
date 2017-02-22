@@ -16,7 +16,7 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
         <link rel="stylesheet" href="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css">
   
         <!--[if lt IE 9]>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+            <script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/html5shiv.js"></script>
         <![endif]-->
     </head>
 
