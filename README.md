@@ -1,5 +1,7 @@
-# bassfm_player
+# Full customize stream player for Airtime RMS
+
+
 
 ### Running stream
 
-[http://bassfm.ru]BASS FM
+http://bassfm.ru
