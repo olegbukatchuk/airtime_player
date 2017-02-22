@@ -2,7 +2,7 @@
 * @preserve HTML5 Shiv 3.7.3
 */
 ;(function(window, document) {
-  /*jshint evil:true */
+  /** jshint evil:true */
   /** version */
   var version = '3.7.3';
 
