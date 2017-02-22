@@ -1,6 +1,21 @@
 /*
-Full customize stream player for Airtime RMS
-Version: 0.0.1
-Author: Oleg Bukatchuk
-E-mail% oleg@bukatchuk.com
+ * Full customize stream player for Airtime RMS
+ * Version: 0.0.2
+ * Author: Oleg Bukatchuk
+ * E-mail% oleg@bukatchuk.com
 */
+
+img {
+    width: 250px;
+}
+
+.player {
+    cursor: auto;
+    background: transparent;
+}
+
+.onair {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-decoration: underline;
+}
