@@ -6,6 +6,6 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
 <script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css"></script>
 <script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
 ```
-### Running stream
+## You can see running stream
 
 http://bassfm.ru
