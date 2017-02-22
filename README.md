@@ -4,17 +4,26 @@
 ## Install
 Add the scripts airtime_player.css and airtime_player.js to your web page:
 ```markdown
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Full customize stream player for Airtime RMS</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css">
-    <script type="text/javascript" src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
-  </head>
-  <body>
-    <div class="player"></div>
-  </body>
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Full customize stream player for Airtime RMS</title>
+        <meta name="description" content="Full customize stream player for Airtime RMS">
+        <meta name="author" content="Oleg Bukatchuk">
+  
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css">
+  
+        <!--[if lt IE 9]>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+        <script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
+        <div class="player"></div>
+    </body>
 </html>
 ```
 ## Demo
