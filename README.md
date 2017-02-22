@@ -1,6 +1,6 @@
 # Full customize stream player for Airtime RMS
 
-## Install
+## How to install player
 Add the scripts airtime_player.css and airtime_player.js to your web page:
 ```markdown
 <html>
