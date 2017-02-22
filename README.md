@@ -18,5 +18,4 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
 You can see running stream on this page http://bassfm.ru
 
 ## Support and contacts
-
 Have a question or suggestion? Contact me any way you want presented on my website bukatchuk.com.
