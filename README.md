@@ -3,8 +3,10 @@
 ## Install
 Add the scripts airtime_player.css and airtime_player.js to your web page:
 ```markdown
-<script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css"></script>
-<script src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
+<html>
+  <head>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
+https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css
 ```
 ## Demo
 You can see running stream on this page http://bassfm.ru
