@@ -7,6 +7,7 @@ Add the scripts airtime_player.css and airtime_player.js to your web page:
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.css">
     <script type="text/javascript" src="https://raw.githubusercontent.com/olegbukatchuk/airtime_player/master/airtime_player.js"></script>
   </head>
