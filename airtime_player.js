@@ -5,7 +5,7 @@
  * E-mail% oleg@bukatchuk.com
 */
 
-// Initialize address for this thread..
+// Initialize address for this thread.
 var streamUrl = 'http://localhost:8000/live320';
 
 // Check for thread.
