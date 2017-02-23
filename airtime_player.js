@@ -17,3 +17,4 @@ function checkStream () {
         document.write('Stream not avalible!');
     }
 }
+

@@ -16,6 +16,18 @@ img {
     background: transparent;
 }
 
+.button {
+    border: 0;
+}
+
+.button:hover {
+
+}
+
+.button:active {
+
+}
+
 .onair {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 12px;
