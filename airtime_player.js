@@ -13,7 +13,7 @@ checkStream (streamUrl);
 
 // If thread not availible display a message in player.
 function checkStream () {
-    while (streamUrl = '') {
+    if (streamUrl = '') {
         document.write('Stream not avalible!');
     }
 }
